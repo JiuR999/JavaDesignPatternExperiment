@@ -1,0 +1,37 @@
+[
+  {
+    "movie": {
+      "title": "肖申克的救赎",
+      "priceCode": 0
+    },
+    "daysRented": 5
+  },
+  {
+    "movie": {
+      "title": "地球脉动",
+      "priceCode": 3
+    },
+    "daysRented": 3
+  },
+  {
+    "movie": {
+      "title": "教父",
+      "priceCode": 1
+    },
+    "daysRented": 2
+  },
+  {
+    "movie": {
+      "title": "阿甘正传",
+      "priceCode": 2
+    },
+    "daysRented": 1
+  },
+  {
+    "movie": {
+      "title": "周六夜现场",
+      "priceCode": 4
+    },
+    "daysRented": 2
+  }
+]
